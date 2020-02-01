@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-print("WALANG MAGEEDDDIIIIT")
+print("WALANG MAGEEDDDIIIIT HAHAHAH nauna ako")
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
