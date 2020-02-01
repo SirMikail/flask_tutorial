@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-print("CORONA VIRUS")
+print("ANG LAMIG")
 =======
 print("HELLOOOOOOOOOOOOOOO WAYV")
 >>>>>>> 0d23bcfcb0498591212171c4be0b5ec71427359a
