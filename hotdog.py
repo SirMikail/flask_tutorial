@@ -1,1 +1,1 @@
-print("HAHAAHAHAHAHAHAHAHHAA DREAMCATCHER BEST GROUP!)
+print("Ako si pogi!")
